@@ -1,0 +1,18 @@
+[
+  {
+    "Author": "DGZaiken",
+    "Name": "DMUModelHelper",
+    "Punchline": "Model helper for Dancing Mad.",
+    "Description": "Changes character models based on configured Dancing Mad bosses.",
+    "InternalName": "DMUModelHelper",
+    "AssemblyVersion": "0.0.0.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/DGZaiken/DMUModelHelper",
+	"IconUrl": "https://raw.githubusercontent.com/DGZaiken/Dalamud-Repo/main/Icons/kefka.png",
+    "DownloadLinkInstall": "https://github.com/DGZaiken/DMUModelHelper/releases/latest/download/DMUModelHelper.zip",
+    "DownloadLinkUpdate": "https://github.com/DGZaiken/DMUModelHelper/releases/latest/download/DMUModelHelper.zip"
+  }
+]
